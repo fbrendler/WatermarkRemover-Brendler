@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest"><b>⬇️ Baixar a versão mais recente</b></a>
+  <a href="https://github.com/fbrendler/WatermarkRemover-Brendler/raw/main/download/WatermarkRemoverByBrendler.zip"><b>⬇️ Baixar WatermarkRemoverByBrendler.zip (v2.0)</b></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@
 
 ## 🚀 Como usar
 
-1. Baixe o **`WatermarkRemoverByBrendler.zip`** na página de [Releases](../../releases/latest) e extraia.
+1. Baixe o **[`WatermarkRemoverByBrendler.zip`](https://github.com/fbrendler/WatermarkRemover-Brendler/raw/main/download/WatermarkRemoverByBrendler.zip)** e extraia.
 2. Dê dois cliques em **`WatermarkRemoverByBrendler.exe`**.
 3. Se aparecer *"O Windows protegeu o computador"*, clique em **Mais informações → Executar assim mesmo**. O aviso aparece porque o programa não tem assinatura digital paga.
 4. Escolha uma opção:
